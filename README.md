@@ -3,4 +3,4 @@ Provides an interface for placing some basic characters on the screen in Garbage
 
 Written in Java by Silas Kidd Myers
 
-This is my part of the code for "garbage-mk-2"
+This is my part of the code for "garbage-mk-2" By u/Greenbeard
